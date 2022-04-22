@@ -26,3 +26,5 @@ show_drafts: true
 # Markdown library
 markdown: redcarpet
 #   extensions: ['fenced_code_blocks', 'smart']
+
+theme: jekyll-theme-tactile
