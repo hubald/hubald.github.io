@@ -3,13 +3,13 @@
 # 2. config.build.yml
 # 3. config.yml
 
-name: cwmonkey.github.io
+name: hubald.github.io
 description: 
 author:
-  name: cwmonkey
-  email: monkey@mysmilies.com
+  name: hubald
+  email: hubald@hubald.com
 
-domain: cwmonkey.github.io
+domain: hubald.github.io
 javascripts: javascripts-minify.html
 stylesheets: stylesheets-minify.html
 debug: false
